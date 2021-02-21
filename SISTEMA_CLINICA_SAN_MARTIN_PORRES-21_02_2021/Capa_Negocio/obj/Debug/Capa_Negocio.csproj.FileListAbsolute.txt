@@ -1,0 +1,21 @@
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Datos.dll
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

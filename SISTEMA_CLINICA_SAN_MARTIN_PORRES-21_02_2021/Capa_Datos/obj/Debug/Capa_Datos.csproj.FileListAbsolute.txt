@@ -1,0 +1,15 @@
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.pdb
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\9no Semestre\PROYECTO DE GRADO DE OTROS\SISTEMA_CLINICA_SAN_MARTIN_PORRES\Capa_Datos\obj\Debug\Capa_Datos.pdb
